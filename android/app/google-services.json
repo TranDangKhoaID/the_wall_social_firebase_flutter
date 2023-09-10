@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "224084011280",
+    "project_id": "walltutorial-a4104",
+    "storage_bucket": "walltutorial-a4104.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:224084011280:android:753e0b508f9ea7b7c49d95",
+        "android_client_info": {
+          "package_name": "com.example.social_media_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0cbyRNSFDAH3J_Cpd7XnAxtOVSqqa50w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
