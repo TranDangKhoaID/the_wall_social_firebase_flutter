@@ -50,7 +50,6 @@ class _ProfilePageState extends State<ProfilePage> {
         ],
       )
     );
-
     if (newValue.trim().isNotEmpty) {
       await usersCollection.doc(currenUser.email).update({field: newValue});
     }
